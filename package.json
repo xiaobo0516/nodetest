@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/xiaobo0516/nodetest/issues"
   },
-  "homepage": "https://github.com/xiaobo0516/nodetest#readme"
+  "homepage": "https://github.com/xiaobo0516/nodetest#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jssha": "^2.0.2"
+  }
 }
