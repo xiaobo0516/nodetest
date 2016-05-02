@@ -1,0 +1,22 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "node test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaobo0516/nodetest.git"
+  },
+  "keywords": [
+    "nodetest"
+  ],
+  "author": "xiaobo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaobo0516/nodetest/issues"
+  },
+  "homepage": "https://github.com/xiaobo0516/nodetest#readme"
+}
